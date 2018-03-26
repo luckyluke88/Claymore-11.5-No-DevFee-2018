@@ -41,3 +41,9 @@ Claymore No Fee Miner
 
 DevFee Claymore Remove Remove DevFee Claymore
 
+Claymore no dev fee
+
+Claymore no fee
+
+Claymore no fee proxy
+
