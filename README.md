@@ -20,6 +20,9 @@ I'm getting lower hashrate with your Claymore than original.
 
 # Tips ETH : 0x26eec046d565cac5b5ce02fb0763499cd784e56c
 
+No Dev Fee Claymore
+
+No Dev Fee Claymore 11.5
 
 Claymore 11.5 
 
